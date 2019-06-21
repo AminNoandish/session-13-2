@@ -1,0 +1,33 @@
+.body,
+bx-0 {
+    background-color: #eeeeee;
+}
+
+.box {
+    height: 100px;
+}
+
+.box-1 {
+    background-color: rgb(11, 52, 236);
+}
+
+.box-2 {
+    background-color: rgb(255, 239, 94);
+}
+
+.box-3-1 {
+    background-color: rgb(0, 104, 28);
+}
+
+.box-3-2 {
+    background-color: rgb(9, 209, 35);
+}
+
+.box-4 {
+    background-color: rgb(250, 162, 31);
+}
+
+.box-5 {
+    background-color: rgb(71, 71, 71);
+    height: 50px;
+}
